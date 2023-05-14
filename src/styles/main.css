@@ -1,0 +1,6 @@
+@import 'font.css';
+@import '~normalize-css';
+
+body {
+  font-family: 'ABC Favorit Expanded', sans-serif;
+}
